@@ -1,138 +1,472 @@
-# VentureRoom AI
+<p align="center">
+  <img src="asset/banner.png" alt="VentureRoom AI Banner" width="100%">
+</p>
 
-> **Pitch your startup idea to an AI Board of Directors and get an investor-grade verdict in minutes.**
+<br>
 
-VentureRoom AI is a premium AI boardroom simulation for founders, students, indie hackers, and product builders. Instead of asking a single chatbot for startup advice, users present an idea to a virtual board of executives — including an investor, CTO, growth lead, and devil’s advocate — who debate the idea, challenge assumptions, vote, and generate a polished board report with actionable next steps.
+<p align="center">
+  <img src="asset/logo.png" width="130" alt="VentureRoom AI Logo">
+</p>
 
----
+<h1 align="center">VentureRoom AI</h1>
 
-## Live Demo
+<p align="center">
+<b>Pressure-test startup ideas with an AI Executive Board.</b>
+</p>
 
-- **Website:** [Add your live URL here]
-- **GitHub:** [Add your repository URL here]
+<p align="center">
+Investor Insights • Technical Reviews • Growth Strategy • Contrarian Analysis
+</p>
 
----
+<br>
 
-## What It Does
+<p align="center">
 
-VentureRoom AI helps users validate startup ideas before they spend time and money building the wrong thing.
+<a href="https://ventureroom-ai.vercel.app">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-VentureRoom_AI-2563EB?style=for-the-badge">
+</a>
 
-Users can:
-- submit a startup idea,
-- start an AI board meeting,
-- ask follow-up questions,
-- receive opposing viewpoints,
-- view individual director votes,
-- and generate a structured executive report.
+<a href="https://github.com/Aaryan-2903/ventureroom-ai">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github">
+</a>
 
-The experience is designed to feel like a real board meeting, not a generic chat interface.
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
-## Key Features
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
-- **AI Boardroom simulation** with four distinct executives
-- **Streaming responses** for a live meeting feel
-- **Investor-style discussion** with opposing viewpoints
-- **Founder Q&A** with directors
-- **Voting and board tally**
-- **Executive report** with strengths, risks, opportunities, and next steps
-- **Anonymous save & share links**
-- **Dark premium UI** with executive glassmorphism
-- **Responsive design** for desktop and mobile
-- **No authentication required**
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 
----
+<img src="https://img.shields.io/badge/OpenAI-Powered-412991?style=for-the-badge">
 
-## AI Board Members
+<img src="https://img.shields.io/badge/License-MIT-success?style=for-the-badge">
 
-### Vera Sterling — Venture Partner
-Focuses on:
-- market size
-- moat
-- fundraising
-- business model
-- investor readiness
-- competitive advantage
-
-### Marcus Chen — CTO
-Focuses on:
-- architecture
-- scalability
-- security
-- technical feasibility
-- AI reliability
-- implementation risk
-
-### Sofia Reyes — Head of Growth
-Focuses on:
-- go-to-market
-- acquisition
-- retention
-- partnerships
-- pricing
-- product positioning
-
-### Devil’s Advocate — Contrarian
-Focuses on:
-- attacking assumptions
-- exposing weak logic
-- finding hidden risks
-- challenging the moat
-- identifying reasons the startup may fail
+</p>
 
 ---
 
-## How It Works
+# 🚀 Live Demo
 
-1. **Enter a startup idea**
-2. **The board convenes**
-3. **Each director gives an opening statement**
-4. **The founder asks follow-up questions**
-5. **Directors respond and challenge each other**
-6. **Each director votes: Proceed / Pivot / Kill**
-7. **The app generates an executive board report**
-8. **The meeting can be saved and shared via link**
+### 🌐 https://ventureroom-ai.vercel.app
+
+Experience a realistic boardroom discussion where AI executives evaluate your startup just like real investors and leadership teams.
 
 ---
 
-## Tech Stack
+# ✨ Overview
 
-- **Frontend:** React, TypeScript, Vite
-- **Backend:** Supabase
-- **AI Orchestration:** Supabase Edge Functions
-- **LLM Provider:** OpenAI / OpenRouter-compatible provider
-- **Styling:** Tailwind CSS
-- **Animations:** Framer Motion
-- **Deployment:** Natively AI / hosted web app
-- **Storage:** Supabase database
-- **Sharing:** Anonymous shareable meeting links
+**VentureRoom AI** is an AI-powered executive boardroom that helps founders validate startup ideas before investing months of time and money.
+
+Instead of relying on a single AI response, VentureRoom simulates a realistic board meeting where multiple AI directors independently evaluate your startup, debate its strengths and weaknesses, challenge assumptions, and collectively produce an investor-grade strategic report.
+
+Every meeting concludes with a structured executive report containing actionable insights, strategic recommendations, board voting results, and a roadmap for moving forward.
 
 ---
 
-## Architecture
+# ❓ Why VentureRoom AI?
+
+Every founder asks:
+
+- Is this startup worth building?
+- Will investors actually like it?
+- What are the hidden risks?
+- Is my business model scalable?
+- What would a CTO say?
+- How would a Growth Lead approach this?
+
+VentureRoom AI answers all of these questions in **one collaborative AI board meeting**.
+
+---
+
+# 🧠 Meet Your AI Board of Directors
+
+| AI Director | Role | Focus |
+|-------------|------|-------|
+| 💼 **Vera Sterling** | Venture Capital Partner | Market size, fundraising, business model, competitive advantage |
+| ⚙️ **Marcus Chen** | Chief Technology Officer | Architecture, scalability, engineering feasibility, AI reliability |
+| 📈 **Sofia Reyes** | Head of Growth | Product positioning, GTM strategy, retention, pricing and growth |
+| ⚖️ **Devil's Advocate** | Contrarian Advisor | Challenges assumptions, exposes risks, identifies failure points |
+
+Each director has a distinct personality, expertise, and decision-making framework, creating dynamic discussions rather than generic chatbot responses.
+
+---
+
+# 🌟 Key Features
+
+### 🏛 AI Executive Boardroom
+
+Receive feedback from four specialized AI executives instead of a single AI assistant.
+
+---
+
+### 💬 Interactive Founder Q&A
+
+Ask follow-up questions and continue the discussion naturally with the board.
+
+---
+
+### ⚖️ Independent Board Voting
+
+Each AI director votes independently after evaluating your startup.
+
+---
+
+### 📊 Executive Strategy Report
+
+Receive a professional board report including:
+
+- Executive Summary
+- Investment Recommendation
+- Board Verdict
+- Market Analysis
+- Business Model Review
+- Competitive Landscape
+- Risks
+- Strategic Recommendations
+- 30-Day Action Plan
+- 90-Day Growth Roadmap
+
+---
+
+### 🔗 Save & Share Meetings
+
+Generate shareable meeting links so founders can easily send board discussions and reports to teammates, mentors, or investors.
+
+---
+
+### ⚡ Live Streaming Responses
+
+Watch the board deliberate in real time with streaming AI responses that simulate a live executive meeting.
+
+---
+
+# 📸 Application Preview
+
+## 🏠 Landing Page
+
+<p align="center">
+<img src="asset/landing-page.png" width="95%">
+</p>
+
+---
+
+## 💬 Live Board Discussion
+
+<p align="center">
+<img src="asset/discussion.png" width="95%">
+</p>
+
+---
+
+## 📊 Executive Board Report
+
+<p align="center">
+<img src="asset/report.png" width="95%">
+</p>
+
+---
+
+# ⭐ Why It's Different
+
+| Traditional AI Chat | VentureRoom AI |
+|---------------------|----------------|
+| One AI response | Four specialized AI executives |
+| Single perspective | Multiple independent viewpoints |
+| Generic advice | Investor-grade strategic analysis |
+| No debate | Interactive executive discussion |
+| No board voting | Independent board decisions |
+| Simple chat | Professional executive report |
+| Limited reasoning | Multi-agent collaborative thinking |
+| No shareable reports | Save & Share meetings |
+
+---
+
+> *"Great startups aren't built by asking one person. They're built by surviving tough boardroom conversations."*
+# 🏛️ System Architecture
 
 ```mermaid
-flowchart TD
-    A[User enters startup idea] --> B[Frontend UI]
-    B --> C[Supabase Edge Functions]
-    C --> D[LLM Provider]
-    D --> C
-    C --> E[Board discussion stream]
-    E --> F[Votes and board tally]
-    F --> G[Executive report]
-    G --> H[Anonymous save]
-    H --> I[Shareable meeting link]
+flowchart LR
+    A[Founder submits startup idea]
+    B[AI Secretary]
+    C[Vera Sterling<br/>Venture Partner]
+    D[Marcus Chen<br/>CTO]
+    E[Sofia Reyes<br/>Growth]
+    F[Devil's Advocate]
+    G[Interactive Q&A]
+    H[Board Vote]
+    I[Executive Report]
+    J[Share Report]
 
-    subgraph Frontend
-        B
-    end
+    A --> B
+    B --> C
+    B --> D
+    B --> E
+    B --> F
 
-    subgraph Backend
-        C
-        E
-        F
-        G
-        H
-        I
+    C --> G
+    D --> G
+    E --> G
+    F --> G
+
+    G --> H
+    H --> I
+    I --> J
+```
+
+---
+
+# 🧠 AI Discussion Flow
+
+```mermaid
+sequenceDiagram
+    participant Founder
+    participant Secretary
+    participant Directors
+    participant Report
+
+    Founder->>Secretary: Submit Startup Pitch
+    Secretary->>Directors: Share Context
+    Directors->>Directors: Independent Analysis
+    Directors->>Founder: Initial Opinions
+    Founder->>Directors: Ask Questions
+    Directors->>Founder: Debate & Responses
+    Directors->>Secretary: Cast Votes
+    Secretary->>Report: Generate Executive Report
+```
+
+---
+
+# 🚀 Application Workflow
+
+```mermaid
+graph TD
+A[Landing Page] --> B[Enter Startup Idea]
+B --> C[AI Board Discussion]
+C --> D[Interactive Q&A]
+D --> E[Board Voting]
+E --> F[Executive Report]
+F --> G[Save & Share]
+```
+
+---
+
+# 📁 Project Structure
+
+```text
+ventureroom-ai/
+│
+├── public/
+│   ├── favicon.png
+│   ├── logo.png
+│   ├── banner.png
+│   ├── landing-page.png
+│   ├── discussion.png
+│   └── report.png
+│
+├── src/
+│   ├── components/
+│   ├── lib/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── index.css
+│
+├── supabase/
+│   └── functions/
+│
+├── README.md
+├── package.json
+└── vite.config.ts
+```
+
+---
+
+# ⚙️ Tech Stack
+
+| Category | Technology |
+|-----------|------------|
+| Frontend | React + TypeScript |
+| Build Tool | Vite |
+| Styling | Tailwind CSS |
+| Backend | Supabase Edge Functions |
+| AI | OpenAI GPT |
+| Deployment | Vercel |
+| Version Control | GitHub |
+
+---
+
+# ⚡ Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Aaryan-2903/ventureroom-ai.git
+```
+
+### Install
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+### Build
+
+```bash
+npm run build
+```
+
+### Preview
+
+```bash
+npm run preview
+```
+
+---
+
+# 🌐 Live Demo
+
+### 🔗 https://ventureroom-ai.vercel.app/
+
+Experience the complete AI boardroom simulation directly in your browser.
+
+---
+   # 🎯 Roadmap
+
+- [x] AI Boardroom Discussion
+- [x] Interactive Executive Q&A
+- [x] Independent Director Voting
+- [x] Executive Summary Generator
+- [x] Strategic Board Report
+- [x] Shareable Meeting Reports
+- [x] Responsive UI
+- [x] Vercel Deployment
+- [ ] PDF Report Export
+- [ ] Slack Integration
+- [ ] Custom AI Directors
+- [ ] Team Collaboration
+- [ ] Meeting History
+- [ ] Voice Discussions
+- [ ] Multi-language Support
+
+---
+
+# 🤝 Contributing
+
+Contributions are always welcome.
+
+If you'd like to improve VentureRoom AI:
+
+1. Fork the repository
+2. Create a feature branch
+
+```bash
+git checkout -b feature/amazing-feature
+```
+
+3. Commit your changes
+
+```bash
+git commit -m "Add amazing feature"
+```
+
+4. Push
+
+```bash
+git push origin feature/amazing-feature
+```
+
+5. Open a Pull Request
+
+---
+
+# 📈 Future Vision
+
+VentureRoom AI is designed to become more than an AI chat.
+
+The long-term vision includes:
+
+- 🧠 Personalized AI Board Members
+- 🌍 Market Intelligence
+- 📊 Startup Scoring Engine
+- 📈 Investor Readiness Score
+- 💰 VC Matchmaking
+- 📑 Pitch Deck Analysis
+- 🎤 Voice Board Meetings
+- 🤖 Custom Executive Personas
+- 🏢 Team Workspaces
+- 📄 One-click Investor Reports
+
+---
+
+# 💡 Inspiration
+
+Founders rarely have access to experienced investors, CTOs, growth leaders, and strategic advisors before building.
+
+VentureRoom AI democratizes that experience by simulating an executive boardroom where every idea is challenged before it reaches the real world.
+
+---
+
+# ⭐ Support
+
+If you enjoyed this project:
+
+⭐ Star this repository
+
+🍴 Fork it
+
+📢 Share it
+
+Every star helps the project reach more builders.
+
+---
+
+# 👨‍💻 Author
+
+<div align="center">
+
+## Aryan R Mandal
+
+Full Stack Developer • AI Builder • Hackathon Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--2903-black?style=for-the-badge&logo=github)](https://github.com/Aaryan-2903)
+[![Live Demo](https://img.shields.io/badge/Live-VentureRoom_AI-blue?style=for-the-badge)](https://ventureroom-ai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+</div>
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the LICENSE file for details.
+
+---
+
+<div align="center">
+
+# ⭐ VentureRoom AI
+
+### AI Board of Directors
+
+### Think Bigger. Debate Harder. Build Smarter.
+
+<img src="asset/logo.png" width="120">
+
+### 🌐 Live Demo
+
+https://ventureroom-ai.vercel.app/
+
+---
+
+Made with ❤️ using React, TypeScript, Supabase & OpenAI
+
+</div>     I
     end
