@@ -426,20 +426,18 @@ Every star helps the project reach more builders.
 
 ---
 
-# 👨‍💻 Author
-
 <div align="center">
 
-## Aryan R Mandal
+## 👨‍💻 Aryan R Mandal
 
-Full Stack Developer • AI Builder • Hackathon Enthusiast
+**Full Stack Developer • AI Engineer • Hackathon Builder**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--2903-black?style=for-the-badge&logo=github)](https://github.com/Aaryan-2903)
-[![Live Demo](https://img.shields.io/badge/Live-VentureRoom_AI-blue?style=for-the-badge)](https://ventureroom-ai.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Aaryan--2903-181717?style=for-the-badge&logo=github)](https://github.com/Aaryan-2903)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan_Mandal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-mandal-94b66b278/)
+[![Live Demo](https://img.shields.io/badge/Live-VentureRoom_AI-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ventureroom-ai.vercel.app/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤-ff4d4d?style=for-the-badge)](https://github.com/Aaryan-2903/ventureroom-ai)
 
 </div>
-
 ---
 
 # 📄 License
